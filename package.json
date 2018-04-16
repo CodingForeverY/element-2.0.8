@@ -15,7 +15,9 @@
     ".eslintignore",
     "lerna.json",
     ".travis.yml",
-    "components.json"
+    "components.json",
+    "test",
+    "yarn.lock"
   ],
   "typings": "types/index.d.ts",
   "scripts": {

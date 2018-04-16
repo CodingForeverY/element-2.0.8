@@ -13,7 +13,9 @@
     ".babelrc",
     ".eslintrc",
     ".eslintignore",
-    "lerna.json"
+    "lerna.json",
+    ".travis.yml",
+    "components.json"
   ],
   "typings": "types/index.d.ts",
   "scripts": {

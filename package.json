@@ -9,6 +9,8 @@
     "packages",
     "types",
     "build",
+    "examples",
+    ".babelrc",
     ".eslintrc",
     ".eslintignore",
     "lerna.json"

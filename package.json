@@ -10,7 +10,8 @@
     "types",
     "build",
     ".eslintrc",
-    ".eslintignore"
+    ".eslintignore",
+    "lerna.json"
   ],
   "typings": "types/index.d.ts",
   "scripts": {
